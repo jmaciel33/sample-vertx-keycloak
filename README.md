@@ -1,4 +1,4 @@
-#Sample with vertx and keycloak
+#  Sample with vertx and keycloak
 
 OAuth authentication using `vertx-auth-oauth2` and `Keycloak`
 
