@@ -38,3 +38,11 @@ mvn clean package
 ```
 mvn clean compile exec:exec -q
 ```
+
+* Payload
+
+`
+{
+	"username":"julio",
+	"password":"julio"
+}`
